@@ -6,3 +6,5 @@ hello from main.
 hello from branch.
 
 ## Trying to understand rebase.
+## Changes made in local branch.
+'
